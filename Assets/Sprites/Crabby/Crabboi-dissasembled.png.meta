@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 7c004169457820f419ddf99675abe88d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 385
+        width: 35
+        height: 57
+      alignment: 9
+      pivot: {x: 0.76664865, y: 0.8735127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a626c28dc6888f9409d5dcb31162caa7
+      internalID: 1611527935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 430
+        width: 76
+        height: 40
+      alignment: 9
+      pivot: {x: 0.9336331, y: 0.259391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b447ee05caa4b7143afd22405b33b274
+      internalID: -1150599967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 278
+        width: 220
+        height: 159
+      alignment: 9
+      pivot: {x: 0.4867433, y: 0.18450755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fc7ca2caabafc4bb9fcd7cf3f85969
+      internalID: 1845033113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 422
+        width: 76
+        height: 40
+      alignment: 9
+      pivot: {x: 0.11241632, y: 0.3177208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace45e6aa8e64324095fc5d212695fed
+      internalID: 1232735609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_4
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 379
+        width: 35
+        height: 58
+      alignment: 9
+      pivot: {x: 0.21668527, y: 0.8067322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359ade96cfed156479b7fe7f06504d1f
+      internalID: 490447768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 244
+        height: 94
+      alignment: 9
+      pivot: {x: 0.088478215, y: 0.57425606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c68ce9da73dc843b4f7a535fd3a1c4
+      internalID: 1871965544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 299
+        width: 97
+        height: 67
+      alignment: 9
+      pivot: {x: 0.9389738, y: 0.13870604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf6dcb20b777eb4690dc28b5a338e2b
+      internalID: 1636687237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 298
+        width: 97
+        height: 67
+      alignment: 9
+      pivot: {x: 0.033966377, y: 0.12129416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b93dd27296d809448260e610cc8b322
+      internalID: -365913669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 147
+        width: 67
+        height: 51
+      alignment: 9
+      pivot: {x: 0.18594588, y: 0.60392255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2675d0f686515347bfec0cd65363470
+      internalID: -293577236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 206
+        width: 84
+        height: 92
+      alignment: 9
+      pivot: {x: 0.9201105, y: 0.9628309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ac03618c5675642baf119cd8a6afea
+      internalID: 109125154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 179
+        width: 101
+        height: 47
+      alignment: 9
+      pivot: {x: 0.92736393, y: 0.14630061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c60147e5249d2447a2711917c7bff23
+      internalID: -1670825803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_11
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 216
+        width: 75
+        height: 96
+      alignment: 9
+      pivot: {x: 0.04503011, y: 0.9556983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aeda2ef6935264185585f3f84ce8f7
+      internalID: -1729829245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 119
+        width: 67
+        height: 68
+      alignment: 9
+      pivot: {x: 0.89176464, y: 0.74017984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9788d6cb29942e4a9edca451df631df
+      internalID: -1959380122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 159
+        width: 101
+        height: 38
+      alignment: 9
+      pivot: {x: 0.06974838, y: 0.38487646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8188ac71599380d47a8447b652107e95
+      internalID: -28374989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 101
+        width: 66
+        height: 68
+      alignment: 9
+      pivot: {x: 0.13765092, y: 0.74017984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0edb8e7ae28944481945f907ac9c2e
+      internalID: 121626000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crabboi-dissasembled_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 58
+        width: 163
+        height: 87
+      alignment: 9
+      pivot: {x: 0.9669931, y: 0.45642063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd13ae24938c80d45a87bdc0c52e4231
+      internalID: -1886768057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crabboi-dissasembled_0: 1611527935
+      Crabboi-dissasembled_1: -1150599967
+      Crabboi-dissasembled_10: -1670825803
+      Crabboi-dissasembled_11: -1729829245
+      Crabboi-dissasembled_12: -1959380122
+      Crabboi-dissasembled_13: -28374989
+      Crabboi-dissasembled_14: 121626000
+      Crabboi-dissasembled_15: -1886768057
+      Crabboi-dissasembled_2: 1845033113
+      Crabboi-dissasembled_3: 1232735609
+      Crabboi-dissasembled_4: 490447768
+      Crabboi-dissasembled_5: 1871965544
+      Crabboi-dissasembled_6: 1636687237
+      Crabboi-dissasembled_7: -365913669
+      Crabboi-dissasembled_8: -293577236
+      Crabboi-dissasembled_9: 109125154
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
